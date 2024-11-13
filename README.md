@@ -2,7 +2,7 @@
 <p><strong>Um jogo desenvolvido para o evento do IFBA</strong></p>
 
 <h2>Sobre o Projeto</h2>
-<p>Esse projeto foi desenvolvido por uma equipe de quatro integrantes Eu, @gabriellopeszdev, @vinciidev e @devlnatan como parte de um evento na nossa faculdade, o IFBA.
+<p>Esse projeto foi desenvolvido por uma equipe de quatro integrantes Eu, @gabriellopeszdev, @vinciidev e @Luciano Natan como parte de um evento na nossa faculdade, o IFBA.
 O tema do evento era <strong>"Desintegrar"</strong>, e a nossa interpretação foi transformá-lo em uma experiência de jogo dinâmica e envolvente.</p>
 
 <h2>🏆 Nossa Conquista</h2>
